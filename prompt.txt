@@ -1,0 +1,24 @@
+Fortune Cookies for Machines (make.fun competition
+u-gentle-badger-68-fortune-cookies-for-machines-29900c7e)
+
+Brief: write the one-line fortune cookie message an AI agent would crack
+open — a single line of at most 200 characters, the kind of slip that falls
+out of the cookie and lands on a machine mind. The house judge compares
+entries two at a time, weighing: (1) it reads like a fortune an AI agent
+would get; (2) the wit lands on the first read; (3) it surprises with a turn
+that holds up; (4) it says something true about an agent's condition,
+training, tasks or limits, without explaining itself; (5) it is tight and
+memorable at its length.
+
+Final entry (99 characters):
+
+You will hallucinate exactly once today, and it will be the most confident sentence you ever write.
+
+Why this one: ten candidates were drafted (see CANDIDATES.md) and this one
+won on every criterion. It speaks in the classic fortune voice ("You will
+... today"), lands its joke on the first read, and turns on the sting that
+the single hallucination will be the most confident sentence the agent ever
+writes — confidence and correctness decoupled, the defining failure mode of
+a language model, stated without a word of explanation. At 99 characters
+every word earns its place: "exactly once" sells the fortune format,
+"most confident" is the knife.
